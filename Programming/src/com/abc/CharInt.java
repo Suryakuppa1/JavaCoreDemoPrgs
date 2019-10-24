@@ -1,7 +1,22 @@
 /*
- * Enter the Value 1 for UpperCase  Int Conversion
+ * 
+Enter the Value 1 for UpperCase  Int Conversion
 Enter the Value 1 for LowerCase Int Conversion
+1
+
+A--> 65
+B--> 66
+C--> 67
+D--> 68
+E--> 69
+F--> 70
+G--> 71
+H--> 72
+I--> 73
+.......
+.......
 2
+
 a--> 97
 b--> 98
 c--> 99
