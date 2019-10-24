@@ -1,3 +1,20 @@
+/*
+ * Enter the Value 1 for UpperCase  Int Conversion
+Enter the Value 1 for LowerCase Int Conversion
+2
+a--> 97
+b--> 98
+c--> 99
+d--> 100
+e--> 101
+f--> 102
+g--> 103
+h--> 104
+i--> 105
+.....
+......
+
+ */
 package com.abc;
 
 import java.util.Scanner;
