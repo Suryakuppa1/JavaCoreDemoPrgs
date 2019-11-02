@@ -1,4 +1,4 @@
-package com.abc;
+package abc;
 class IfStatement
 {
 	public void doSomething()
@@ -31,6 +31,7 @@ public class TerinaryOperator {
 		iff.doSomething();
 		iff.TerinaryOp();
 		
+
 	}
 
 }
